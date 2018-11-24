@@ -20,6 +20,16 @@ header, nav, footer, section, clipper, SliderFrame {
 	height: 450px;
 }
 
+#Picture
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	width: 830px;
+	height: 330px;
+}
+
 #Content
 {
 	margin-left: auto;

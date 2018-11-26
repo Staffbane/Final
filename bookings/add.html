@@ -1,0 +1,6 @@
+$(function() {
+  $("#addMore").click(function(e) {
+    e.preventDefault();
+    $("fieldset:last").after("<fieldset><input type="date" name="date[]"/><br /><br /></fieldset>");
+  });
+});
